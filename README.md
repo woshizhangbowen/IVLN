@@ -1,5 +1,5 @@
 # IVLN
-首个红外和可见光夜间数据集（IVLN）
+首个红外和可见光夜间数据集（IVLN）（现已包括白天数据，可做数据真值使用（未使用激光雷达））
 
 ![2193XPTVXOJ6D{KKI W_C5R](https://github.com/user-attachments/assets/50540c24-d29b-4922-848f-e1a0f7ee476c)
 
@@ -13,3 +13,8 @@ The first Infrared and visible light nighttime data set（IVLN）
 通过百度网盘分享的文件：张博文红外可见光
 链接：https://pan.baidu.com/s/10j9ajJfE82FwHhI7Hi50-Q?pwd=kiq4 
 提取码：kiq4
+
+
+更新：现使用新的传感器：DJI mavic4行业版，拍摄哈尔滨包括：哈尔滨工程大学教学楼、图书馆、水生楼、博物馆、哈尔滨圣索菲亚教堂和广场、部分哈医大医院等场景，
+拍摄的时间节点为夜间可见光与热红外双镜头对齐同时拍摄，日间可见光拍摄
+已将日间可见光拍摄图像生成为三维模型（使用大疆智图）
