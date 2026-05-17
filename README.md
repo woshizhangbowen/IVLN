@@ -18,4 +18,6 @@ The first Infrared and visible light nighttime data set（IVLN）
 更新：现使用新的传感器：DJI mavic4行业版，拍摄哈尔滨包括：哈尔滨工程大学教学楼、图书馆、水生楼、博物馆、哈尔滨圣索菲亚教堂和广场、部分哈医大医院等场景，
 拍摄的时间节点为夜间可见光与热红外双镜头对齐同时拍摄，日间可见光拍摄
 已将日间可见光拍摄图像生成为三维模型（使用大疆智图）
+
+
 <img width="714" height="807" alt="局部截取_20260517_121621" src="https://github.com/user-attachments/assets/e1ed43fc-bac3-41ed-8e2d-95a38221787a" />
